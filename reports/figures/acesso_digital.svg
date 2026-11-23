@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="580" viewBox="0 0 1100 580">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="52" y="44" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#17324d">Desempenho e acesso digital</text>
+<text x="52" y="70" font-family="Arial,sans-serif" font-size="14" fill="#607286">Internet e computador no domicílio</text>
+<rect x="88" y="100" width="967" height="375" fill="#eaf2f8" stroke="#c8d7e6"/><line x1="88" y1="475" x2="1055" y2="475" stroke="#ffffff"/>
+<text x="78" y="479" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#607286">0</text><line x1="88" y1="400" x2="1055" y2="400" stroke="#ffffff"/>
+<text x="78" y="404" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#607286">119</text><line x1="88" y1="325" x2="1055" y2="325" stroke="#ffffff"/>
+<text x="78" y="329" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#607286">238</text><line x1="88" y1="250" x2="1055" y2="250" stroke="#ffffff"/>
+<text x="78" y="254" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#607286">357</text><line x1="88" y1="175.00000000000003" x2="1055" y2="175.00000000000003" stroke="#ffffff"/>
+<text x="78" y="179.00000000000003" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#607286">476</text><line x1="88" y1="100" x2="1055" y2="100" stroke="#ffffff"/>
+<text x="78" y="104" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#607286">595</text><rect x="133.9325" y="173.11145785454516" width="149.885" height="301.88854214545484" rx="4" fill="#2a9d61"/>
+<text x="208.875" y="499" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">Internet — Não</text><rect x="375.6825" y="143.77308262976672" width="149.885" height="331.2269173702333" rx="4" fill="#2a9d61"/>
+<text x="450.625" y="499" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">Internet — Sim</text><rect x="617.4325" y="166.25092733709107" width="149.885" height="308.74907266290893" rx="4" fill="#2a9d61"/>
+<text x="692.375" y="499" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">Computador — Não</text><rect x="859.1825" y="127.77777777777777" width="149.885" height="347.22222222222223" rx="4" fill="#2a9d61"/>
+<text x="934.125" y="499" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">Computador — Sim</text></svg>

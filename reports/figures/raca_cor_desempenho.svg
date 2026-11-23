@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="580" viewBox="0 0 1100 580">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="52" y="44" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#17324d">Desempenho por cor/raça declarada</text>
+<text x="52" y="70" font-family="Arial,sans-serif" font-size="14" fill="#607286">Média simples das cinco notas; categoria não declarada omitida do gráfico</text>
+<rect x="220" y="100" width="835" height="425" fill="#eaf2f8" stroke="#c8d7e6"/><line x1="220" y1="100" x2="220" y2="525" stroke="#ffffff"/>
+<text x="220" y="549" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">0</text><line x1="387" y1="100" x2="387" y2="525" stroke="#ffffff"/>
+<text x="387" y="549" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">119</text><line x1="554" y1="100" x2="554" y2="525" stroke="#ffffff"/>
+<text x="554" y="549" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">238</text><line x1="721" y1="100" x2="721" y2="525" stroke="#ffffff"/>
+<text x="721" y="549" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">357</text><line x1="888" y1="100" x2="888" y2="525" stroke="#ffffff"/>
+<text x="888" y="549" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">476</text><line x1="1055" y1="100" x2="1055" y2="525" stroke="#ffffff"/>
+<text x="1055" y="549" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">594</text><rect x="220" y="117.85" width="675.4037942020501" height="49.3" rx="4" fill="#7b61a8"/>
+<text x="208" y="146.5" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Indígena</text><rect x="220" y="202.85" width="708.7343520284749" height="49.3" rx="4" fill="#7b61a8"/>
+<text x="208" y="231.5" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Amarela</text><rect x="220" y="287.85" width="710.1389267367102" height="49.3" rx="4" fill="#7b61a8"/>
+<text x="208" y="316.5" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Preta</text><rect x="220" y="372.85" width="727.6399276013226" height="49.3" rx="4" fill="#7b61a8"/>
+<text x="208" y="401.5" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Parda</text><rect x="220" y="457.85" width="773.148148148148" height="49.3" rx="4" fill="#7b61a8"/>
+<text x="208" y="486.5" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Branca</text></svg>

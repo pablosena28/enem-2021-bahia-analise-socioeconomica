@@ -1,0 +1,37 @@
+{
+  "records_main": 266194,
+  "records_socioeconomic": 266194,
+  "inner_join_records": 266194,
+  "complete_five_scores": 174793,
+  "complete_five_scores_pct": 65.66,
+  "presence": {
+    "CH_LC_present_pct": 69.44,
+    "CN_MT_present_pct": 65.88
+  },
+  "overall_means_complete_sample": {
+    "NU_NOTA_CN": 480.01,
+    "NU_NOTA_CH": 509.1,
+    "NU_NOTA_LC": 491.19,
+    "NU_NOTA_MT": 513.61,
+    "NU_NOTA_REDACAO": 613.89,
+    "MEDIA_SIMPLES_5": 521.56
+  },
+  "income": {
+    "mean_A_no_income": 473.05,
+    "mean_Q_above_22000": 621.45,
+    "A_to_Q_gap_points": 148.4,
+    "complete_score_rate_A_pct": 57.16,
+    "complete_score_rate_Q_pct": 83.44
+  },
+  "school": {
+    "public_mean": 494.24,
+    "private_mean": 585.34,
+    "private_minus_public_points": 91.09,
+    "not_answered_share_complete_sample_pct": 63.46
+  },
+  "digital_access": {
+    "internet_yes_minus_no_points": 46.57,
+    "computer_yes_minus_no_points": 61.07
+  },
+  "municipalities_application": 162
+}

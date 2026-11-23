@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="580" viewBox="0 0 1100 580">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="52" y="44" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#17324d">Municípios de aplicação com maior volume</text>
+<text x="52" y="70" font-family="Arial,sans-serif" font-size="14" fill="#607286">15 municípios com mais registros na base</text>
+<rect x="220" y="100" width="835" height="425" fill="#eaf2f8" stroke="#c8d7e6"/><line x1="220" y1="100" x2="220" y2="525" stroke="#ffffff"/>
+<text x="220" y="549" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">0</text><line x1="387" y1="100" x2="387" y2="525" stroke="#ffffff"/>
+<text x="387" y="549" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">12.636</text><line x1="554" y1="100" x2="554" y2="525" stroke="#ffffff"/>
+<text x="554" y="549" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">25.273</text><line x1="721" y1="100" x2="721" y2="525" stroke="#ffffff"/>
+<text x="721" y="549" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">37.909</text><line x1="888" y1="100" x2="888" y2="525" stroke="#ffffff"/>
+<text x="888" y="549" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">50.546</text><line x1="1055.0000000000002" y1="100" x2="1055.0000000000002" y2="525" stroke="#ffffff"/>
+<text x="1055.0000000000002" y="549" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#607286">63.182</text><rect x="220" y="105.95" width="39.739777810698456" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="118.16666666666667" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Paulo Afonso</text><rect x="220" y="134.28333333333333" width="39.938014148297555" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="146.5" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Teixeira de Freitas</text><rect x="220" y="162.61666666666665" width="46.20228241642894" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="174.83333333333331" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Guanambi</text><rect x="220" y="190.95" width="47.77495736138178" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="203.16666666666666" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Alagoinhas</text><rect x="220" y="219.2833333333333" width="48.065703989860424" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="231.49999999999997" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Santo Antônio de Jesus</text><rect x="220" y="247.61666666666665" width="58.33434627749352" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="259.8333333333333" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Jequié</text><rect x="220" y="275.95" width="61.915816110117134" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="288.16666666666663" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Camaçari</text><rect x="220" y="304.2833333333333" width="63.025939600672075" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="316.49999999999994" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Ilhéus</text><rect x="220" y="332.6166666666666" width="71.1271979305551" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="344.83333333333326" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Itabuna</text><rect x="220" y="360.95" width="72.63379409630818" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="373.16666666666663" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Juazeiro</text><rect x="220" y="389.2833333333333" width="74.62937322813912" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="401.49999999999994" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Lauro de Freitas</text><rect x="220" y="417.6166666666666" width="80.39144277435275" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="429.83333333333326" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Barreiras</text><rect x="220" y="445.95" width="142.6244370246285" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="458.16666666666663" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Vitória da Conquista</text><rect x="220" y="474.2833333333333" width="220.55774921275247" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="486.49999999999994" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Feira de Santana</text><rect x="220" y="502.6166666666666" width="773.1481481481482" height="16.43333333333333" rx="4" fill="#3b82b8"/>
+<text x="208" y="514.8333333333333" text-anchor="end" font-family="Arial,sans-serif" font-size="11" fill="#17324d">Salvador</text></svg>
